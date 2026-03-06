@@ -18,6 +18,7 @@
     });
 
     $('.slick-area').slick({
+      autoplay: true,
       arrows: false,
       centerMode: true,
       centerPadding: '100px',
